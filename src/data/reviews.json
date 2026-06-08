@@ -1,0 +1,47 @@
+[
+  {
+    "author": "Cassandra V.",
+    "location": "Yoder, WY",
+    "rating": 5,
+    "title": "Highly recommended!",
+    "body": "So soft and comfy just wish the top was a bit longer",
+    "productName": "Mineral Wash Set",
+    "productSlug": "acid-wash-set"
+  },
+  {
+    "author": "Cassandra V.",
+    "location": "Yoder, WY",
+    "rating": 4,
+    "title": "I like the tank",
+    "body": "I like the tank top",
+    "productName": "Brunch Babe",
+    "productSlug": "brunch-babe"
+  },
+  {
+    "author": "Cassandra V.",
+    "location": "Yoder, WY",
+    "rating": 4,
+    "title": "Pretty good!",
+    "body": "Pretty even though tight",
+    "productName": "Vegan Leather Short",
+    "productSlug": "vegan-leather-short"
+  },
+  {
+    "author": "Janee W.",
+    "location": "Fayetteville, US-NC",
+    "rating": 5,
+    "title": "Fantastic!",
+    "body": "Cute, comfortable and stylish!!!🥰❤️",
+    "productName": "Diva",
+    "productSlug": "diva-1"
+  },
+  {
+    "author": "Chatega L.",
+    "location": "Washington, DC",
+    "rating": 5,
+    "title": "Fantastic! The mystery box was so fun and worth every penny!!!",
+    "body": "Fantastic! The mystery box was so fun and worth every penny!!!",
+    "productName": "Mystery Box",
+    "productSlug": "mystery-box"
+  }
+]

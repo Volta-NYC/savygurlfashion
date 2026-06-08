@@ -1,23 +1,29 @@
 {
-  "name": "volta-base-template",
+  "name": "savygurl",
   "version": "1.0.0",
   "private": true,
   "scripts": {
+    "data": "node scripts/build-data.mjs",
+    "predev": "node scripts/build-data.mjs",
+    "prebuild": "node scripts/build-data.mjs",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "latest",
-    "react": "latest",
-    "react-dom": "latest"
+    "framer-motion": "^11.15.0",
+    "next": "^14.2.35",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
   },
   "devDependencies": {
-    "@types/react": "^19.2.14",
-    "autoprefixer": "^10.0.0",
-    "postcss": "^8.0.0",
-    "tailwindcss": "^3.0.0",
-    "typescript": "^5.0.0"
+    "@types/node": "^20",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.15",
+    "typescript": "^5.6.3"
   }
 }

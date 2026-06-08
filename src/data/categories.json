@@ -1,0 +1,79 @@
+[
+  {
+    "slug": "new-arrivals",
+    "name": "New Arrivals",
+    "blurb": "The latest drops, fresh off the rack.",
+    "count": 7,
+    "heroImage": "/images/products/brunch-babe-1.png"
+  },
+  {
+    "slug": "sets",
+    "name": "Sets",
+    "blurb": "Effortless two-pieces that do the styling for you.",
+    "count": 21,
+    "heroImage": "/images/products/almondy-1.png"
+  },
+  {
+    "slug": "dresses",
+    "name": "Dresses",
+    "blurb": "From brunch to black-tie, a dress for every moment.",
+    "count": 9,
+    "heroImage": "/images/products/amber-1.jpg"
+  },
+  {
+    "slug": "jumpsuits",
+    "name": "Jumpsuits",
+    "blurb": "One and done — bold silhouettes, zero effort.",
+    "count": 5,
+    "heroImage": "/images/products/ashley-1.jpg"
+  },
+  {
+    "slug": "tops",
+    "name": "Tops",
+    "blurb": "The building blocks of an unforgettable fit.",
+    "count": 11,
+    "heroImage": "/images/products/all-things-plaid-1.jpg"
+  },
+  {
+    "slug": "bottoms",
+    "name": "Bottoms",
+    "blurb": "Pants that move with you, all day long.",
+    "count": 8,
+    "heroImage": "/images/products/comfy-me-1.jpg"
+  },
+  {
+    "slug": "skirts",
+    "name": "Skirts",
+    "blurb": "Twirl-worthy shapes in every length.",
+    "count": 2,
+    "heroImage": "/images/products/karisma-1.jpg"
+  },
+  {
+    "slug": "shoes",
+    "name": "Shoes",
+    "blurb": "Finish the look from the ground up.",
+    "count": 1,
+    "heroImage": "/images/products/ice-me-out-1.jpg"
+  },
+  {
+    "slug": "outerwear",
+    "name": "Outerwear",
+    "blurb": "Layers that make the whole outfit.",
+    "count": 4,
+    "heroImage": "/images/products/cardi-basic-1.jpg"
+  },
+  {
+    "slug": "plus-size",
+    "name": "Plus Size",
+    "blurb": "Size-inclusive style, designed to celebrate every curve.",
+    "count": 6,
+    "heroImage": "/images/products/brittany-1.jpg"
+  },
+  {
+    "slug": "merch",
+    "name": "SavyGurl Merch",
+    "blurb": "Wear the brand. Live the mantra.",
+    "count": 2,
+    "heroImage": "/images/products/savygurl-mask-1.png"
+  }
+]

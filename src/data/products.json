@@ -1,0 +1,1784 @@
+[
+  {
+    "slug": "all-things-plaid",
+    "name": "All Things Plaid",
+    "price": 24.99,
+    "salePrice": 14,
+    "onSale": true,
+    "categories": [
+      "tops"
+    ],
+    "isNew": false,
+    "variant": "Size",
+    "description": [
+      "Navy Blue/Yellow",
+      "Button Up Style Shirt",
+      "Detachable Hood",
+      "2 Front Pockets",
+      "Drawstring Waist",
+      "Materials: 100% Cotton",
+      "*Minimal Stretch* *Runs TTS but Maybe tight in arm area for thicker arms*"
+    ],
+    "alt": "Yellow Plaid Button up shirt with detachable hood",
+    "images": [
+      "/images/products/all-things-plaid-1.jpg",
+      "/images/products/all-things-plaid-2.jpg"
+    ]
+  },
+  {
+    "slug": "almondy",
+    "name": "Almondy",
+    "price": 39.99,
+    "salePrice": null,
+    "onSale": false,
+    "categories": [
+      "sets"
+    ],
+    "isNew": false,
+    "variant": "Size",
+    "description": [
+      "Oversized Button Up with matching shorts",
+      "Top has Hi-Low Hem",
+      "Shorts have pockets and drawstring waist",
+      "Materials:100% Cotton",
+      "Some stretch",
+      "Very pretty color pictures do it no justice",
+      "Size Small Top and Medium Short Shown"
+    ],
+    "alt": "Elegant woman in rust-colored shirt and shorts set",
+    "images": [
+      "/images/products/almondy-1.png"
+    ]
+  },
+  {
+    "slug": "amber",
+    "name": "Amber",
+    "price": 22.99,
+    "salePrice": null,
+    "onSale": false,
+    "categories": [
+      "dresses"
+    ],
+    "isNew": false,
+    "variant": "Size",
+    "description": [
+      "Animal Print",
+      "Bodycon",
+      "Side Lace Detail",
+      "Back zipper closure",
+      "95% Polyester 5% Spandex"
+    ],
+    "alt": null,
+    "images": [
+      "/images/products/amber-1.jpg",
+      "/images/products/amber-2.jpg",
+      "/images/products/amber-3.jpg"
+    ]
+  },
+  {
+    "slug": "ashley",
+    "name": "Ashley",
+    "price": 17.99,
+    "salePrice": 10,
+    "onSale": true,
+    "categories": [
+      "jumpsuits"
+    ],
+    "isNew": false,
+    "variant": "Size",
+    "description": [
+      "Black",
+      "Wide Leg (Approximately 14.5 inches wide and 41.5 inches long)",
+      "Partial Lining",
+      "Hidden Side Zip",
+      "100 % Polyester",
+      "No STRETCH"
+    ],
+    "alt": "Black sleeveless peplum jumpsuit on mannequin",
+    "images": [
+      "/images/products/ashley-1.jpg"
+    ]
+  },
+  {
+    "slug": "aztec-princess",
+    "name": "Aztec Princess",
+    "price": 9.99,
+    "salePrice": 7,
+    "onSale": true,
+    "categories": [
+      "tops"
+    ],
+    "isNew": false,
+    "variant": "Size",
+    "description": [
+      "•Multi-color Printed Design",
+      "3/4 quarter sleeves",
+      "Keyhole Opening on Back",
+      "Very Lightweight",
+      "100% Polyester",
+      "No Stretch"
+    ],
+    "alt": "Navy top with white, orange, green geometric pattern",
+    "images": [
+      "/images/products/aztec-princess-1.jpg"
+    ]
+  },
+  {
+    "slug": "hot-gurl",
+    "name": "Bold & Beautiful Set",
+    "price": 41.99,
+    "salePrice": null,
+    "onSale": false,
+    "categories": [
+      "sets"
+    ],
+    "isNew": false,
+    "variant": "Size",
+    "description": [
+      "Unleash your inner 'Hot Gurl' with this stunning mini short set. The bodysuit, featuring stylish shoulder pads and a back zipper closure, offers a flattering fit with plenty of stretch. Complementing this are the chic tulip-style shorts with zipper and button closure. This set is designed to make you feel bold, beautiful, and ready to turn heads, celebrating your confidence and unique style."
+    ],
+    "alt": "Blue short set",
+    "images": [
+      "/images/products/hot-gurl-1.jpeg"
+    ]
+  },
+  {
+    "slug": "brittany",
+    "name": "Brittany",
+    "price": 29.99,
+    "salePrice": 20,
+    "onSale": true,
+    "categories": [
+      "plus-size"
+    ],
+    "isNew": false,
+    "variant": "Size",
+    "description": [
+      "Navy Blue and White Striped",
+      "Off the shoulder crop top with some stretch",
+      "Pants has pockets; back zipper closure, and offers NO STRETCH",
+      "100% Polyester"
+    ],
+    "alt": "Plus size woman wearing pin striped 2-piece set",
+    "images": [
+      "/images/products/brittany-1.jpg",
+      "/images/products/brittany-2.jpg"
+    ]
+  },
+  {
+    "slug": "brunch-babe",
+    "name": "Brunch Babe",
+    "price": 23.99,
+    "salePrice": null,
+    "onSale": false,
+    "categories": [
+      "sets"
+    ],
+    "isNew": true,
+    "variant": "Color",
+    "description": [
+      "This vibrant pleated set is made for the moments you want to step out feeling confident, stylish, and completely yourself. With adjustable straps for the perfect fit, and pants with pockets(you know we love a good pocket moment) it’s both flattering and functional. Lightweight and easy to wear, this set is perfect for brunch dates, day outings, or whenever you want to show up looking effortlessly put together. Finished with a subtle keyhole detail in the back for that extra touch.",
+      "*Please note this style is best suited for petite to average heights(model is 5’2”)"
+    ],
+    "alt": "Woman in bright pink strapless top and pants",
+    "images": [
+      "/images/products/brunch-babe-1.png",
+      "/images/products/brunch-babe-2.png"
+    ],
+    "rating": 4,
+    "reviewCount": 1
+  },
+  {
+    "slug": "buffalo-girl",
+    "name": "Buffalo Girl",
+    "price": 13.99,
+    "salePrice": 10,
+    "onSale": true,
+    "categories": [
+      "tops"
+    ],
+    "isNew": false,
+    "variant": "Size",
+    "description": [
+      "Short Sleeve Plaid Shirt",
+      "Button Down",
+      "2 Front Pockets",
+      "Lots of stretch",
+      "Materials- 100% Polyester",
+      "*Size Large shown in picture*"
+    ],
+    "alt": "Red & black checkered print short sleeve button up top",
+    "images": [
+      "/images/products/buffalo-girl-1.jpg"
+    ]
+  },
+  {
+    "slug": "cardi-basic",
+    "name": "Cardi Basic",
+    "price": 39.99,
+    "salePrice": 20,
+    "onSale": true,
+    "categories": [
+      "outerwear"
+    ],
+    "isNew": false,
+    "variant": "Size",
+    "description": [
+      "Long Sleeve Knit Cardigan",
+      "Balloon Sleeve Detailing",
+      "Very Soft",
+      "Materials: 100% Acrylic"
+    ],
+    "alt": "Black Mid Length Cardigan",
+    "images": [
+      "/images/products/cardi-basic-1.jpg",
+      "/images/products/cardi-basic-2.jpg"
+    ]
+  },
+  {
+    "slug": "casualties",
+    "name": "Casualties",
+    "price": 17,
+    "salePrice": null,
+    "onSale": false,
+    "categories": [
+      "dresses"
+    ],
+    "isNew": false,
+    "variant": "Color",
+    "description": [
+      "Spaghetti Strap Midi Dress",
+      "Adjustable Straps",
+      "Non Functional Buttons",
+      "Front Split",
+      "Materials- 95% Polyester 5% Spandex",
+      "Also comes in black"
+    ],
+    "alt": "Nude bodycon dress with spaghetti straps, side slit",
+    "images": [
+      "/images/products/casualties-1.jpg",
+      "/images/products/casualties-2.jpg",
+      "/images/products/casualties-3.jpg"
+    ]
+  },
+  {
+    "slug": "cold-shoulder",
+    "name": "Cold Shoulder",
+    "price": 15.99,
+    "salePrice": 10,
+    "onSale": true,
+    "categories": [
+      "jumpsuits"
+    ],
+    "isNew": false,
+    "variant": "Size",
+    "description": [
+      "Off the shoulder romper",
+      "Side Pockets",
+      "Can be worn on or off the shoulder",
+      "Elastic Waist",
+      "Materials: 100% Cotton",
+      "Some stretch",
+      "Fits true to size but can be sized up for a less fitted look",
+      "Size Large shown in picture"
+    ],
+    "alt": "Navy blue romper",
+    "images": [
+      "/images/products/cold-shoulder-1.jpg"
+    ]
+  },
+  {
+    "slug": "colorblock",
+    "name": "ColorBlock",
+    "price": 14,
+    "salePrice": 10.01,
+    "onSale": true,
+    "categories": [
+      "jumpsuits"
+    ],
+    "isNew": false,
+    "variant": "Color",
+    "description": [
+      "Color Block Jumpsuit",
+      "Spaghetti Straps(not adjustable)",
+      "Side Pockets",
+      "Self tie belt",
+      "Materials- 100% Rayon",
+      "Very flowy and comfortable",
+      "*Size Medium shown in pictures*"
+    ],
+    "alt": "Pastel jumpsuit",
+    "images": [
+      "/images/products/colorblock-1.png",
+      "/images/products/colorblock-2.png",
+      "/images/products/colorblock-3.png"
+    ]
+  },
+  {
+    "slug": "colorblocking",
+    "name": "Colorblocking",
+    "price": 13.99,
+    "salePrice": 10,
+    "onSale": true,
+    "categories": [
+      "dresses"
+    ],
+    "isNew": false,
+    "variant": "Size",
+    "description": [
+      "Striped ColorBlock Midi Dress",
+      "Some Stretch",
+      "Runs small so sizing up is suggested",
+      "Size Large shown",
+      "Materials: 68% Polyester 29% Rayon 3% Spandex"
+    ],
+    "alt": "Striped Colorblock Fitted Maxi Dress",
+    "images": [
+      "/images/products/colorblocking-1.jpg",
+      "/images/products/colorblocking-2.jpg"
+    ]
+  },
+  {
+    "slug": "comfy-me",
+    "name": "Comfy Me",
+    "price": 18,
+    "salePrice": 10,
+    "onSale": true,
+    "categories": [
+      "bottoms"
+    ],
+    "isNew": false,
+    "variant": "Color",
+    "description": [
+      "Sweatpants",
+      "2 side pockets",
+      "Elastic waistband with drawstring",
+      "Materials: 53% Cotton/45% Polyester/2% Spandex",
+      "Very Soft",
+      "Jogger style",
+      "Comes in 4 colors (Rust,Olive,Black,Almond)",
+      "Size Small Pictured"
+    ],
+    "alt": "Dark rust jogger pants",
+    "images": [
+      "/images/products/comfy-me-1.jpg",
+      "/images/products/comfy-me-2.jpg",
+      "/images/products/comfy-me-3.jpg",
+      "/images/products/comfy-me-4.jpg"
+    ]
+  },
+  {
+    "slug": "covered-in-chains",
+    "name": "Covered in Chains",
+    "price": 72.99,
+    "salePrice": 50,
+    "onSale": true,
+    "categories": [
+      "sets"
+    ],
+    "isNew": false,
+    "variant": "Size",
+    "description": [
+      "Denim Jacket and Highwaist Jean Set",
+      "Chain link design on back of jacket",
+      "Jeans have a removeable link at left pocket",
+      "Materials- 97% Cotton/ 3% Spandex",
+      "Lots of stretch"
+    ],
+    "alt": "Denim Chain Set",
+    "images": [
+      "/images/products/covered-in-chains-1.png",
+      "/images/products/covered-in-chains-2.jpg"
+    ]
+  },
+  {
+    "slug": "cowl-gurl-set",
+    "name": "Cowl Gurl",
+    "price": 22.99,
+    "salePrice": 12,
+    "onSale": true,
+    "categories": [
+      "plus-size"
+    ],
+    "isNew": false,
+    "variant": "Size",
+    "description": [
+      "Oversized Cowl Neck Sweater",
+      "Sweater has hi-low feature(shorter in front longer in the back)",
+      "Very soft",
+      "Materials- 82% Polyester/15 % Rayon/ 3 %"
+    ],
+    "alt": "Woman in purple swing top and black shiny pants",
+    "images": [
+      "/images/products/cowl-gurl-set-1.jpg"
+    ]
+  },
+  {
+    "slug": "cowl-girl",
+    "name": "Cowl Gurl",
+    "price": 19.99,
+    "salePrice": 10,
+    "onSale": true,
+    "categories": [
+      "tops"
+    ],
+    "isNew": false,
+    "variant": "Size",
+    "description": [
+      "Oversized Cowl Neck Sweater",
+      "Sweater has hi-low(short in front/long in back) feature",
+      "Very soft",
+      "Materials- 82% Polyester/15 % Rayon/ 3 % Spandex",
+      "Size Medium shown in picture"
+    ],
+    "alt": "Gray Cashmere Turtleneck sweater",
+    "images": [
+      "/images/products/cowl-girl-1.jpg"
+    ]
+  },
+  {
+    "slug": "cruela",
+    "name": "Cruela",
+    "price": 24,
+    "salePrice": 12,
+    "onSale": true,
+    "categories": [
+      "dresses"
+    ],
+    "isNew": false,
+    "variant": "Size",
+    "description": [
+      "Black and White Maxi Dress",
+      "Thigh slit on left side",
+      "Deep v-neck",
+      "Side Zipper Closure",
+      "Runs true to size",
+      "Materials- 92% Polyester 8%Spandex"
+    ],
+    "alt": "Black and white deep V-neck split jumpsuit",
+    "images": [
+      "/images/products/cruela-1.jpg",
+      "/images/products/cruela-2.jpg"
+    ]
+  },
+  {
+    "slug": "denim-girl",
+    "name": "Denim Girl",
+    "price": 24,
+    "salePrice": 10,
+    "onSale": true,
+    "categories": [
+      "bottoms"
+    ],
+    "isNew": false,
+    "variant": "Size",
+    "description": [
+      "Dark Rinse High Rise Skinny Jean",
+      "Ripped design at thigh",
+      "3 front pockets and 2 back pockets",
+      "1 Button closure",
+      "Materials: 65% Cotton/19% Rayon/13% Polyester/3 % spandex",
+      "Runs true to size",
+      "*Size 9 shown"
+    ],
+    "alt": "Smiling woman in black top and distressed jeans",
+    "images": [
+      "/images/products/denim-girl-1.jpg",
+      "/images/products/denim-girl-2.jpg",
+      "/images/products/denim-girl-3.jpg"
+    ]
+  },
+  {
+    "slug": "diamond",
+    "name": "Diamond",
+    "price": 49.99,
+    "salePrice": 30,
+    "onSale": true,
+    "categories": [
+      "plus-size"
+    ],
+    "isNew": false,
+    "variant": "Size",
+    "description": [
+      "Red Jumpsuit",
+      "Zipper Back Closure",
+      "Rhinestone embellishments down both sides",
+      "95% Polyester 5% Spandex",
+      "Some stretch"
+    ],
+    "alt": "Woman in a red jumpsuit, hands on hips",
+    "images": [
+      "/images/products/diamond-1.jpg",
+      "/images/products/diamond-2.jpg"
+    ]
+  },
+  {
+    "slug": "diva-1",
+    "name": "Diva",
+    "price": 27.99,
+    "salePrice": null,
+    "onSale": false,
+    "categories": [
+      "plus-size"
+    ],
+    "isNew": false,
+    "variant": "Color",
+    "description": [
+      "Oversized Pleated Jumpsuit",
+      "Self-Tie",
+      "Side Pockets",
+      "Materials: 100% Polyester",
+      "Super Comfortable/Flowy",
+      "Can size down for a more fitted look",
+      "Size small shown"
+    ],
+    "alt": "Pleated Jumpsuit",
+    "images": [
+      "/images/products/diva-1-1.jpg",
+      "/images/products/diva-1-2.jpg"
+    ],
+    "rating": 5,
+    "reviewCount": 1
+  },
+  {
+    "slug": "jogger-gir",
+    "name": "Dynamic Comfort Joggers",
+    "price": 17.99,
+    "salePrice": null,
+    "onSale": false,
+    "categories": [
+      "bottoms"
+    ],
+    "isNew": false,
+    "variant": "Color",
+    "description": [
+      "Move with confidence and ease in these stylish jogger pants. Featuring an elastic waist with",
+      "a drawstring for a perfect fit, side pockets for convenience, and unique ruched detailing,",
+      "these joggers are designed for your active lifestyle. Made from 100% polyester, they offer",
+      "both comfort and durability, empowering you to conquer your day in style"
+    ],
+    "alt": "Woman modeling pink and blue tie-dye hoodie with black pants",
+    "images": [
+      "/images/products/jogger-gir-1.png"
+    ]
+  },
+  {
+    "slug": "acid-wash-set",
+    "name": "Effortless Chic Set",
+    "price": 27.99,
+    "salePrice": null,
+    "onSale": false,
+    "categories": [
+      "sets"
+    ],
+    "isNew": false,
+    "variant": "Color",
+    "description": [
+      "Indulge in the ultimate comfort and style with our Mineral Wash Legging Set. The oversized",
+      "top with balloon sleeves offers a relaxed yet chic vibe, while the high-waist leggings provide",
+      "a flattering fit with plenty of stretch. This super soft set is perfect for lounging, running",
+      "errands, or a casual day out, making you feel effortlessly put-together and confident"
+    ],
+    "alt": "Smiling woman in rust outfit with Christmas gifts",
+    "images": [
+      "/images/products/acid-wash-set-1.png",
+      "/images/products/acid-wash-set-2.png"
+    ],
+    "rating": 5,
+    "reviewCount": 1
+  },
+  {
+    "slug": "miss-november",
+    "name": "Empowered Elegance Peplum",
+    "price": 28.99,
+    "salePrice": null,
+    "onSale": false,
+    "categories": [
+      "tops"
+    ],
+    "isNew": true,
+    "variant": "Size",
+    "description": [
+      "This faux leather peplum top is designed to highlight your shape in all the right ways while keeping you comfortable and confident. Featuring a flattering sweetheart neckline and just the right amount of stretch, it hugs you beautifully without feeling restrictive. Whether you’re heading out for the evening or stepping into a stylish daytime moment, this piece brings that effortless “I showed up as HER” energy every time."
+    ],
+    "alt": "Woman in black peplum outfit and boots in city at night",
+    "images": [
+      "/images/products/miss-november-1.png"
+    ]
+  },
+  {
+    "slug": "flare-girl-jean",
+    "name": "Flare Girl Jean",
+    "price": 21,
+    "salePrice": 10,
+    "onSale": true,
+    "categories": [
+      "bottoms"
+    ],
+    "isNew": false,
+    "variant": "Size",
+    "description": [
+      "High Rise Bell Bottom Jean",
+      "5 belt loops",
+      "5 pockets Zipper/ 1 button closure",
+      "Materials: 75% Cotton/23% Polyester/ 2% spandex",
+      "*Juniors sizing*",
+      "Going a size up is highly suggested",
+      "Size 13 shown in pic"
+    ],
+    "alt": "Woman wearing flare jeans with ripped knees",
+    "images": [
+      "/images/products/flare-girl-jean-1.jpg",
+      "/images/products/flare-girl-jean-2.jpg",
+      "/images/products/flare-girl-jean-3.jpg"
+    ]
+  },
+  {
+    "slug": "french-terry-set",
+    "name": "French Terry Set",
+    "price": 30,
+    "salePrice": 21.01,
+    "onSale": true,
+    "categories": [
+      "sets"
+    ],
+    "isNew": false,
+    "variant": "Color",
+    "description": [
+      "Cropped Zipper Hoodie Set",
+      "Drawstring shorts with pockets",
+      "Materials: 53% Cotton/ 47% Polyester",
+      "Runs True to Size",
+      "Lots of stretch",
+      "Size Medium Shown"
+    ],
+    "alt": "Pink velour hooded short set",
+    "images": [
+      "/images/products/french-terry-set-1.jpg"
+    ]
+  },
+  {
+    "slug": "gather-me-short-set",
+    "name": "Gather Me (short set)",
+    "price": 12.99,
+    "salePrice": 8,
+    "onSale": true,
+    "categories": [
+      "sets"
+    ],
+    "isNew": false,
+    "variant": "Color",
+    "description": [
+      "Crop Short Set",
+      "Shorts have scrunch/butt lift effect",
+      "Lots of stretch",
+      "Materials- 92% Polyester 8% Spandex"
+    ],
+    "alt": "Neon Pink gather me short set",
+    "images": [
+      "/images/products/gather-me-short-set-1.png",
+      "/images/products/gather-me-short-set-2.jpg"
+    ]
+  },
+  {
+    "slug": "georgia-set",
+    "name": "Georgia 🍑 Set",
+    "price": 19.99,
+    "salePrice": 13,
+    "onSale": true,
+    "categories": [
+      "sets"
+    ],
+    "isNew": false,
+    "variant": "Size",
+    "description": [
+      "Cardigan Set",
+      "Matching Leggings",
+      "Striped Cardigan with some ribbed features",
+      "Cardigan is very lite",
+      "Cardigan has snap button closures and lots of stretch",
+      "Materials 95% Rayon/5% spandex",
+      "Leggings are 95% Cotton/5% spandex with lots of stretch",
+      "Size Medium Shown"
+    ],
+    "alt": "Peach cardigan legging set",
+    "images": [
+      "/images/products/georgia-set-1.jpeg",
+      "/images/products/georgia-set-2.jpeg",
+      "/images/products/georgia-set-3.jpeg",
+      "/images/products/georgia-set-4.jpeg",
+      "/images/products/georgia-set-5.jpeg"
+    ]
+  },
+  {
+    "slug": "hawt-girl",
+    "name": "Hawt Girl",
+    "price": 20.99,
+    "salePrice": 14,
+    "onSale": true,
+    "categories": [
+      "sets"
+    ],
+    "isNew": false,
+    "variant": null,
+    "description": [
+      "Legging Set",
+      "Oversized Poncho Top",
+      "Top has side slits",
+      "Size down in top for a more fitted look",
+      "Top Materials-57% Polyester/38% Rayon/5% Spandex",
+      "Legging Materials- 90% Polyester/10% Spandex",
+      "Very Soft",
+      "Lots of stretch",
+      "Size Small shown in top and medium in legging"
+    ],
+    "alt": "Fuchsia legging set",
+    "images": [
+      "/images/products/hawt-girl-1.jpg",
+      "/images/products/hawt-girl-2.jpg"
+    ]
+  },
+  {
+    "slug": "hoodie-season-hoodie-only",
+    "name": "Hoodie Season",
+    "price": 24.99,
+    "salePrice": 10,
+    "onSale": true,
+    "categories": [
+      "outerwear"
+    ],
+    "isNew": false,
+    "variant": "Color",
+    "description": [
+      "Side Tie Hoodie with Kangaroo Pocket",
+      "Materials:53% Cotton/45% Polyester/2% Spandex",
+      "Hoodie can also be paired with our black comfy me sweatpants or our moto leggings"
+    ],
+    "alt": "Hoody legging set",
+    "images": [
+      "/images/products/hoodie-season-hoodie-only-1.jpg"
+    ]
+  },
+  {
+    "slug": "hoodie-season-set-1",
+    "name": "Hoodie Season Set",
+    "price": 30,
+    "salePrice": 22.01,
+    "onSale": true,
+    "categories": [
+      "plus-size"
+    ],
+    "isNew": false,
+    "variant": "Size",
+    "description": [
+      "Side Tie Hoodie with Kangaroo pocket",
+      "Matching leggings",
+      "Hoodie Materials:53% Cotton/45% Polyester/2% Spandex",
+      "*Hoody can also  be paired with our comfy me sweatpants for a complete look"
+    ],
+    "alt": "Woman in light hoodie and leggings on brick driveway",
+    "images": [
+      "/images/products/hoodie-season-set-1-1.jpg",
+      "/images/products/hoodie-season-set-1-2.jpg"
+    ]
+  },
+  {
+    "slug": "hot-like-lava",
+    "name": "Hot like lava",
+    "price": 21.99,
+    "salePrice": 12,
+    "onSale": true,
+    "categories": [
+      "tops"
+    ],
+    "isNew": false,
+    "variant": "Size",
+    "description": [
+      "Lace and Velvet Bodysuit",
+      "Adjustable Straps",
+      "Underwire Bra Cups",
+      "Mesh Back",
+      "Materials- 90% Polyester/10% Elastane",
+      "Suggested to size up"
+    ],
+    "alt": "Burgundy lace lingerie bodysuit",
+    "images": [
+      "/images/products/hot-like-lava-1.jpg"
+    ]
+  },
+  {
+    "slug": "ice-me-out",
+    "name": "Ice me out",
+    "price": 16.99,
+    "salePrice": 10,
+    "onSale": true,
+    "categories": [
+      "shoes"
+    ],
+    "isNew": false,
+    "variant": "Color",
+    "description": [
+      "Jelly Flat Sandal",
+      "Blinged Bow Detail",
+      "No Half Sizes Available",
+      "Runs true to size for most feet"
+    ],
+    "alt": "Feet wearing sparkly bow sandals",
+    "images": [
+      "/images/products/ice-me-out-1.jpg",
+      "/images/products/ice-me-out-2.jpg",
+      "/images/products/ice-me-out-3.jpg",
+      "/images/products/ice-me-out-4.jpg"
+    ]
+  },
+  {
+    "slug": "in-the-wild",
+    "name": "In the Wild",
+    "price": 53,
+    "salePrice": null,
+    "onSale": false,
+    "categories": [
+      "dresses"
+    ],
+    "isNew": false,
+    "variant": "Size",
+    "description": [
+      "Zebra Print Bandage Dress",
+      "Midi Length",
+      "Plunging Neckline",
+      "Back Zipper Closure",
+      "Runs true to size",
+      "Very thick",
+      "Materials 68% Polyester 32% Nylon"
+    ],
+    "alt": "Woman wearing zebra print bandage dress",
+    "images": [
+      "/images/products/in-the-wild-1.jpg",
+      "/images/products/in-the-wild-2.jpg"
+    ]
+  },
+  {
+    "slug": "ivory",
+    "name": "Ivory",
+    "price": 19,
+    "salePrice": 10,
+    "onSale": true,
+    "categories": [],
+    "isNew": false,
+    "variant": "Size",
+    "description": [
+      "lBlack and White Striped V-neck short sleeve tee",
+      "Materials: 95% Cotton/ 5 % Spandex",
+      "Paired with Black Biker Shorts",
+      "Biker Shorts Materials: 95% Cotton/ 5% Spandex"
+    ],
+    "alt": null,
+    "images": [
+      "/images/products/ivory-1.jpg",
+      "/images/products/ivory-2.jpg"
+    ]
+  },
+  {
+    "slug": "jazzy",
+    "name": "Jazzy",
+    "price": 15.99,
+    "salePrice": 10,
+    "onSale": true,
+    "categories": [],
+    "isNew": false,
+    "variant": "Size",
+    "description": [
+      "Printed Palazzo Pants",
+      "Wide Leg",
+      "Hidden Front Hook Closure",
+      "Zipper Back Closure",
+      "100% Polyester",
+      "No Stretch",
+      "Approximately 39 inches long"
+    ],
+    "alt": null,
+    "images": [
+      "/images/products/jazzy-1.jpg"
+    ]
+  },
+  {
+    "slug": "jessica",
+    "name": "Jessica",
+    "price": 26.99,
+    "salePrice": 14,
+    "onSale": true,
+    "categories": [
+      "outerwear"
+    ],
+    "isNew": false,
+    "variant": "Size",
+    "description": [
+      "Pink and White Cardigan/Cover-up",
+      "Sequins Detailing",
+      "Braided Waist  Self-Tie"
+    ],
+    "alt": "Woman in white romper with pink print and matching robe",
+    "images": [
+      "/images/products/jessica-1.jpg"
+    ]
+  },
+  {
+    "slug": "kaleidoscope",
+    "name": "Kaleidoscope",
+    "price": 29.99,
+    "salePrice": null,
+    "onSale": false,
+    "categories": [
+      "sets"
+    ],
+    "isNew": false,
+    "variant": "Size",
+    "description": [
+      "Crop Top/Jogger Set",
+      "Drawstring hood and jogger",
+      "Elasticized waist",
+      "Brushed Lining",
+      "Materials- 60% Cotton/ 40% Polyester",
+      "Runs true to size. but can size down for a more fitted look",
+      "Size Medium (Hoody) and Small(joggers) shown in pic",
+      "Joggers are not full length, and may not be tall girl friendly",
+      "Lots of stretch"
+    ],
+    "alt": "Tye Dye Sweatsuit",
+    "images": [
+      "/images/products/kaleidoscope-1.jpg",
+      "/images/products/kaleidoscope-2.jpg",
+      "/images/products/kaleidoscope-3.jpg"
+    ]
+  },
+  {
+    "slug": "karisma",
+    "name": "Karisma",
+    "price": 34.99,
+    "salePrice": 23.99,
+    "onSale": true,
+    "categories": [
+      "skirts"
+    ],
+    "isNew": false,
+    "variant": "Size",
+    "description": [
+      "Full Sequence Midi Skirt",
+      "Back Zipper Closure",
+      "Full Lining",
+      "100% Polyester"
+    ],
+    "alt": "Black skirt with gold and silver sequin patterns",
+    "images": [
+      "/images/products/karisma-1.jpg"
+    ]
+  },
+  {
+    "slug": "lavender-blush",
+    "name": "Lavender Blush",
+    "price": 42.99,
+    "salePrice": null,
+    "onSale": false,
+    "categories": [
+      "sets"
+    ],
+    "isNew": false,
+    "variant": "Size",
+    "description": [
+      "Oversized BabyDoll  Blouse w/ hi-low hem, v -neck collar",
+      "Matching Shorts with drawstring and side pockets",
+      "Materials: 100% Cotton",
+      "Top can be sized down for a more fitted look",
+      "Size SmallTop shown and Medium short"
+    ],
+    "alt": "Lavender short set",
+    "images": [
+      "/images/products/lavender-blush-1.jpg"
+    ]
+  },
+  {
+    "slug": "lilly",
+    "name": "Lilly",
+    "price": 36.99,
+    "salePrice": 22.8,
+    "onSale": true,
+    "categories": [
+      "bottoms"
+    ],
+    "isNew": false,
+    "variant": "Size",
+    "description": [
+      "Floral Printed Wide Leg Pant",
+      "Front Button/Zipper Closure",
+      "Approximately 43 inches long",
+      "Lots of  stretch throughout leg",
+      "*No stretch in waist*",
+      "*Size large shown"
+    ],
+    "alt": "Woman in red ruffled peplum top and patterned pants",
+    "images": [
+      "/images/products/lilly-1.jpg"
+    ]
+  },
+  {
+    "slug": "lumber-woman",
+    "name": "Lumber Woman",
+    "price": 24.99,
+    "salePrice": 17,
+    "onSale": true,
+    "categories": [
+      "dresses"
+    ],
+    "isNew": false,
+    "variant": "Size",
+    "description": [
+      "Knit Sweater Dress",
+      "Plaid Design on Sleeves",
+      "Lots of stretch",
+      "Materials- 50% Rayon/25% Nylon/ 25% Polyester",
+      "Size small shown in picture"
+    ],
+    "alt": "Buffalo Plaid sleeve sweater dress",
+    "images": [
+      "/images/products/lumber-woman-1.jpg"
+    ]
+  },
+  {
+    "slug": "lumber-woman-plus",
+    "name": "Lumber Woman",
+    "price": 26.99,
+    "salePrice": 17,
+    "onSale": true,
+    "categories": [
+      "plus-size"
+    ],
+    "isNew": false,
+    "variant": "Size",
+    "description": [
+      "Knit Sweater Dress",
+      "Plaid Design on Sleeves",
+      "Lots of stretch",
+      "Materials- 50% Rayon/25% Nylon/ 25% Polyester",
+      "Size small shown in picture"
+    ],
+    "alt": "Smiling woman in black mini dress with red sleeves, thigh-high boots",
+    "images": [
+      "/images/products/lumber-woman-plus-1.jpg"
+    ]
+  },
+  {
+    "slug": "make-it-pop",
+    "name": "Make it pop",
+    "price": 14,
+    "salePrice": 10,
+    "onSale": true,
+    "categories": [
+      "bottoms"
+    ],
+    "isNew": false,
+    "variant": "Color",
+    "description": [
+      "Printed Bell Bottm Pants",
+      "3 Different Patterns to choose from",
+      "Materials: 95%  Polyester/5 % Spandex",
+      "Pants are  approximately 42inches long and have been measured lying flat using a size large"
+    ],
+    "alt": "Smiling woman in sparkly pants by Christmas tree and gifts.",
+    "images": [
+      "/images/products/make-it-pop-1.jpg",
+      "/images/products/make-it-pop-2.jpg",
+      "/images/products/make-it-pop-3.jpg",
+      "/images/products/make-it-pop-4.jpg"
+    ]
+  },
+  {
+    "slug": "making-moves",
+    "name": "Making Moves",
+    "price": 42.99,
+    "salePrice": null,
+    "onSale": false,
+    "categories": [
+      "sets"
+    ],
+    "isNew": false,
+    "variant": "Size",
+    "description": [
+      "2 piece set",
+      "Materials: 74% Cotton/21% Polyester/5% Spandex",
+      "Lots of stretch"
+    ],
+    "alt": "Olive green pants set",
+    "images": [
+      "/images/products/making-moves-1.jpg"
+    ]
+  },
+  {
+    "slug": "marsha",
+    "name": "Marsha",
+    "price": 24.99,
+    "salePrice": 12,
+    "onSale": true,
+    "categories": [
+      "jumpsuits"
+    ],
+    "isNew": false,
+    "variant": "Color",
+    "description": [
+      "Abstract Print Jumpsuit",
+      "Spaghetti Straps",
+      "Wide Leg",
+      "Some Stretch",
+      "One size fits up to a large",
+      "Materials- 95% Polyester 5% Elastane",
+      "Not tall girl friendly"
+    ],
+    "alt": "Green striped jumpsuit",
+    "images": [
+      "/images/products/marsha-1.jpg",
+      "/images/products/marsha-2.jpg"
+    ]
+  },
+  {
+    "slug": "neon-flame",
+    "name": "Neon Flame",
+    "price": 22,
+    "salePrice": 10,
+    "onSale": true,
+    "categories": [
+      "sets"
+    ],
+    "isNew": false,
+    "variant": "Size",
+    "description": [
+      "Sleeveless Tank with matching pants",
+      "Black and Neon Green",
+      "Materials- 92% Polyester/ 8% spandex",
+      "Offers great comfort",
+      "Lots of stretch",
+      "*Size Large Shown"
+    ],
+    "alt": "Smiling woman in black and green loungewear set",
+    "images": [
+      "/images/products/neon-flame-1.png",
+      "/images/products/neon-flame-2.png"
+    ]
+  },
+  {
+    "slug": "no-workout-1",
+    "name": "No workout",
+    "price": 18,
+    "salePrice": 10,
+    "onSale": true,
+    "categories": [
+      "sets"
+    ],
+    "isNew": false,
+    "variant": "Color",
+    "description": [
+      "Crop Top and Matching shorts",
+      "Colorblock Design",
+      "Shorts have mesh detail on sides",
+      "Materials- 92% Polyester/ 8% Spandex",
+      "Offers great comfort",
+      "Lots of stretch",
+      "Also comes in Teal",
+      "*Size Large shown*"
+    ],
+    "alt": "Woman in blue sleeveless top and biker shorts with fluffy slippers",
+    "images": [
+      "/images/products/no-workout-1-1.jpg"
+    ]
+  },
+  {
+    "slug": "no-workout-2",
+    "name": "No workout",
+    "price": 20,
+    "salePrice": 10,
+    "onSale": true,
+    "categories": [
+      "sets"
+    ],
+    "isNew": false,
+    "variant": "Color",
+    "description": [
+      "Sleeveless Racerback Tank/ with some mesh detail",
+      "Color block design",
+      "Materials- 92% Polyester/ 8% Spandex",
+      "Offers great comfort",
+      "Lots of stretch",
+      "Comes in various designs and colors",
+      "*Size Large Shown*",
+      "*Due to the design on the gray/black/white set  stretch is limited.Going a size up is highly suggested*"
+    ],
+    "alt": "Woman in white athletic tank top and patterned leggings",
+    "images": [
+      "/images/products/no-workout-2-1.jpg",
+      "/images/products/no-workout-2-2.jpg",
+      "/images/products/no-workout-2-3.jpg"
+    ]
+  },
+  {
+    "slug": "nostalgia",
+    "name": "Nostalgia",
+    "price": 21.99,
+    "salePrice": 10,
+    "onSale": true,
+    "categories": [
+      "dresses"
+    ],
+    "isNew": false,
+    "variant": "Size",
+    "description": [
+      "Abstract Print",
+      "Bell Sleeves",
+      "Full Lining",
+      "100% Polyester",
+      "No Stretch"
+    ],
+    "alt": "V-neck dress with long bell sleeves and intricate blue floral pattern",
+    "images": [
+      "/images/products/nostalgia-1.jpg"
+    ]
+  },
+  {
+    "slug": "nubia",
+    "name": "Nubia",
+    "price": 9.99,
+    "salePrice": null,
+    "onSale": false,
+    "categories": [],
+    "isNew": false,
+    "variant": "Size",
+    "description": [
+      "Tribal Print",
+      "Off the shoulder",
+      "100% Rayon",
+      "Lots of stretch",
+      "*Size Large shown*"
+    ],
+    "alt": null,
+    "images": [
+      "/images/products/nubia-1.jpg",
+      "/images/products/nubia-2.jpg",
+      "/images/products/nubia-3.jpg"
+    ]
+  },
+  {
+    "slug": "ocean-waves",
+    "name": "Ocean Waves",
+    "price": 13.99,
+    "salePrice": 10,
+    "onSale": true,
+    "categories": [
+      "jumpsuits"
+    ],
+    "isNew": false,
+    "variant": "Size",
+    "description": [
+      "Tie Dye Print Jumpsuit",
+      "Adjustable neck tie",
+      "Very Soft",
+      "Lots of stretch",
+      "Runs true to size",
+      "*Size medium shown",
+      "Tall girl friendly"
+    ],
+    "alt": "Royal Bue and baby blue jumpsuit",
+    "images": [
+      "/images/products/ocean-waves-1.jpg"
+    ]
+  },
+  {
+    "slug": "canary",
+    "name": "On the Go",
+    "price": 25.99,
+    "salePrice": 22,
+    "onSale": true,
+    "categories": [
+      "sets"
+    ],
+    "isNew": false,
+    "variant": "Color",
+    "description": [
+      "Jogger Set",
+      "Crop Top Drawstring Hoodie",
+      "Adjustable waist joggers with Side Pockets",
+      "Materials: 62% Cotton/ 33% Polyester/ 5% Spandex",
+      "Very soft",
+      "Lots of stretch",
+      "*Size Medium Shown in pictures"
+    ],
+    "alt": "Black hooded sweatsuit",
+    "images": [
+      "/images/products/canary-1.jpg",
+      "/images/products/canary-2.jpg"
+    ]
+  },
+  {
+    "slug": "paisley-girl",
+    "name": "Paisley Girl",
+    "price": 19.99,
+    "salePrice": 10,
+    "onSale": true,
+    "categories": [
+      "bottoms"
+    ],
+    "isNew": false,
+    "variant": "Size",
+    "description": [
+      "Paisley Print Anklet Pants",
+      "Side Pockets",
+      "Elastic Waist",
+      "Belt Loops and Self Tie Belt",
+      "100% Rayon",
+      "Partial Lining",
+      "*Size Large Shown*",
+      "Has some stretch"
+    ],
+    "alt": "Smiling woman in white top and patterned pants",
+    "images": [
+      "/images/products/paisley-girl-1.jpg",
+      "/images/products/paisley-girl-2.jpg"
+    ]
+  },
+  {
+    "slug": "candy-gurl",
+    "name": "Playful Spirit Shirt Dress",
+    "price": 36.99,
+    "salePrice": null,
+    "onSale": false,
+    "categories": [
+      "dresses"
+    ],
+    "isNew": true,
+    "variant": "Size",
+    "description": [
+      "Unleash your playful side with this vibrant button-up shirt dress. It’s unique color block design and comfortable cotton-polyester blend make it a versatile piece that can be worn as a dress or stylish top. While it offers a true-to-size- fit, its charm lies in its ability to adapt to your mood and style, making every day a little brighter."
+    ],
+    "alt": "Woman in pastel color-block dress and black boots",
+    "images": [
+      "/images/products/candy-gurl-1.png"
+    ]
+  },
+  {
+    "slug": "new-flame",
+    "name": "Radiant Confidence Set",
+    "price": 51.99,
+    "salePrice": null,
+    "onSale": false,
+    "categories": [
+      "sets"
+    ],
+    "isNew": true,
+    "variant": "Size",
+    "description": [
+      "Ignite your style with this versatile button up top and pants set. Designed with a comfortable stretch and a flattering fit, this set is perfect for the woman who loves to mix and match. The pants are tall gurl friendly, ensuring a perfect silhouette, and each piece can be styled seperately to create endless looks. Feel the power of your presence in this radiant ensemble."
+    ],
+    "alt": "Multicolor pants set",
+    "images": [
+      "/images/products/new-flame-1.jpeg"
+    ]
+  },
+  {
+    "slug": "red-stripes",
+    "name": "Red Stripes",
+    "price": 25.99,
+    "salePrice": 15,
+    "onSale": true,
+    "categories": [
+      "sets"
+    ],
+    "isNew": false,
+    "variant": null,
+    "description": [
+      "Drop Shoulder Top",
+      "3/4 Sleeves",
+      "Side Pockets",
+      "Top Materials: 95% Rayon/ 5% Spandex| Leggings 95% Cotton/5% Spandex",
+      "Very soft and comfortable",
+      "Lots of stretch",
+      "Size Medium shown in pictures"
+    ],
+    "alt": "Red and white stripe legging set",
+    "images": [
+      "/images/products/red-stripes-1.jpg"
+    ]
+  },
+  {
+    "slug": "sasha",
+    "name": "Sasha",
+    "price": 34.99,
+    "salePrice": 22,
+    "onSale": true,
+    "categories": [
+      "tops"
+    ],
+    "isNew": false,
+    "variant": "Size",
+    "description": [
+      "White Floral Print Blouse",
+      "Sheer/Lightweight",
+      "Some stretch (Around Neck and Sleeves)",
+      "Keyhole Opening on back with 2 button closure"
+    ],
+    "alt": "Sasha white floral high-neck top and pants set",
+    "images": [
+      "/images/products/sasha-1.png",
+      "/images/products/sasha-2.jpg"
+    ]
+  },
+  {
+    "slug": "savygurl-mask",
+    "name": "SavyGurl Mask",
+    "price": 14,
+    "salePrice": null,
+    "onSale": false,
+    "categories": [
+      "merch"
+    ],
+    "isNew": false,
+    "variant": null,
+    "description": [
+      "SavyGurl Logo Mask",
+      "Adjustable Ear Loops",
+      "Soft 3-Ply Fabric for added protection",
+      "Washable and reusable"
+    ],
+    "alt": "White fabric with 'Easy Gurl Fashion' text & woman graphic",
+    "images": [
+      "/images/products/savygurl-mask-1.png"
+    ]
+  },
+  {
+    "slug": "savygurl-tee",
+    "name": "SavyGurl Tee",
+    "price": 15.99,
+    "salePrice": null,
+    "onSale": false,
+    "categories": [
+      "merch"
+    ],
+    "isNew": false,
+    "variant": "Size",
+    "description": [
+      "Branded tee with SavyGurl Logo"
+    ],
+    "alt": "SavyGurl Tee with woman graphic in pink",
+    "images": [
+      "/images/products/savygurl-tee-1.jpg"
+    ]
+  },
+  {
+    "slug": "skater-skirt",
+    "name": "Skater Skirt",
+    "price": 16.99,
+    "salePrice": 10,
+    "onSale": true,
+    "categories": [
+      "skirts"
+    ],
+    "isNew": false,
+    "variant": "Size",
+    "description": [
+      "High Waist Vegan Leather Skirt",
+      "Elasticized Back Waistband",
+      "Runs true to size",
+      "Lots of stretch",
+      "Materials: 96% Polyester/4 % Spandex",
+      "Size Medium Shown"
+    ],
+    "alt": "Woman wearing fedora hat turtle neck and pleated leatherette skirt",
+    "images": [
+      "/images/products/skater-skirt-1.png"
+    ]
+  },
+  {
+    "slug": "stripe-tease",
+    "name": "Stripe Tease",
+    "price": 19.99,
+    "salePrice": 10,
+    "onSale": true,
+    "categories": [
+      "dresses"
+    ],
+    "isNew": false,
+    "variant": "Color",
+    "description": [
+      "Striped Maxi Dress",
+      "95% Rayon/5% Spandex",
+      "Lots of Stretch",
+      "Very Comfy",
+      "Tall Girl Friendly",
+      "*Size Large Shown*",
+      "If you prefer a more fitted look its suggested to go a size down"
+    ],
+    "alt": "Smiling woman in blue and white striped maxi dress",
+    "images": [
+      "/images/products/stripe-tease-1.jpg",
+      "/images/products/stripe-tease-2.jpg"
+    ]
+  },
+  {
+    "slug": "mystery-box",
+    "name": "Surprise & Delight Mystery Box",
+    "price": 25,
+    "salePrice": null,
+    "onSale": false,
+    "categories": [],
+    "isNew": true,
+    "variant": "Size",
+    "description": [
+      "💜Choose your experience💜",
+      "✨Mini Box ($25) -A little pick me up (1-2 curated pieces)",
+      "✨Medium Box ($50) -The perfect style refresh",
+      "✨VIP Box ($75) -A full confidence boost",
+      "Each box is personalized based on information you provided"
+    ],
+    "alt": "Mystery Box",
+    "images": [
+      "/images/products/mystery-box-1.png"
+    ],
+    "rating": 5,
+    "reviewCount": 1
+  },
+  {
+    "slug": "the-knit",
+    "name": "The Knit",
+    "price": 21.99,
+    "salePrice": null,
+    "onSale": false,
+    "categories": [
+      "tops"
+    ],
+    "isNew": false,
+    "variant": "Color",
+    "description": [
+      "Wrap Asymmetrical Heavyweight Knit Sweater",
+      "Wood Button Details",
+      "100% Acrylic",
+      "Very soft",
+      "Lots of stretch",
+      "*Size Medium Shown"
+    ],
+    "alt": "Royal Blue Sweater",
+    "images": [
+      "/images/products/the-knit-1.png",
+      "/images/products/the-knit-2.jpg",
+      "/images/products/the-knit-3.jpg"
+    ]
+  },
+  {
+    "slug": "tropical-princess",
+    "name": "Tropical Dream Set",
+    "price": 26.99,
+    "salePrice": null,
+    "onSale": false,
+    "categories": [
+      "sets"
+    ],
+    "isNew": true,
+    "variant": "Size",
+    "description": [
+      "Step into your paradise with this stunning maxi skirt set. The bandeau top offers a comfortable stretch, perfectly complementing the flowing maxi skirt with its elegant back and zipper and elasticized waist. This set is designed to make you feel effortlessly beautiful and vibrant, whether you’re on vacation or simply dreaming of one. Embrace your inner tropical princess."
+    ],
+    "alt": "Woman in patterned two-piece outfit in tropical garden",
+    "images": [
+      "/images/products/tropical-princess-1.png"
+    ]
+  },
+  {
+    "slug": "turtle-neck",
+    "name": "Turtle Neck",
+    "price": 11.99,
+    "salePrice": null,
+    "onSale": false,
+    "categories": [
+      "tops"
+    ],
+    "isNew": false,
+    "variant": "Size",
+    "description": [
+      "Cream Colored Turtle Neck",
+      "Runs true to size",
+      "Super soft",
+      "Materials: 90% Polyester 10% Spandex",
+      "Size Medium shown in picture"
+    ],
+    "alt": "Paisley Print Pants",
+    "images": [
+      "/images/products/turtle-neck-1.jpg"
+    ]
+  },
+  {
+    "slug": "tye-dye-vibez-3",
+    "name": "Tye Dye Vibez",
+    "price": 27,
+    "salePrice": 17,
+    "onSale": true,
+    "categories": [
+      "sets"
+    ],
+    "isNew": false,
+    "variant": "Size",
+    "description": [
+      "Tye Dye Design",
+      "Sleeveless Top with hi low and peplum features",
+      "Pants have ribbed elastic waist,4 non-active buttons, 2 side pockets",
+      "Materials- 65% Rayon; 30% Polyester; 5% spandex",
+      "Super comfy and offers great stretch",
+      "*Size Medium Shown*"
+    ],
+    "alt": "Woman wearing Tye Dye coordinate peplum top set",
+    "images": [
+      "/images/products/tye-dye-vibez-3-1.jpg",
+      "/images/products/tye-dye-vibez-3-2.jpg"
+    ]
+  },
+  {
+    "slug": "grownish",
+    "name": "Unveiled Grace Top",
+    "price": 16.99,
+    "salePrice": null,
+    "onSale": false,
+    "categories": [
+      "tops"
+    ],
+    "isNew": true,
+    "variant": "Size",
+    "description": [
+      "Embrace your inner glow with this completely sheer, lightweight top. Crafted from a soft tencel and spandex blend, it offers a delicate touch and plenty of stretch, allowing you to move with ease and grace. This piece is perfect for layering, adding a touch of allure and confidence to any outfit, letting your true self shine through."
+    ],
+    "alt": "Woman in elegant black sheer top and wide-leg trousers",
+    "images": [
+      "/images/products/grownish-1.png",
+      "/images/products/grownish-2.jpg",
+      "/images/products/grownish-3.jpg"
+    ]
+  },
+  {
+    "slug": "vegan-leather-short",
+    "name": "Vegan Leather Short",
+    "price": 14.99,
+    "salePrice": null,
+    "onSale": false,
+    "categories": [
+      "bottoms"
+    ],
+    "isNew": false,
+    "variant": "Color",
+    "description": [
+      "Vegan Leather Short",
+      "Adjustable waist band",
+      "Side Pockets",
+      "Runs true to size",
+      "Lots of stretch",
+      "Materials: 100% Polyurethane",
+      "*Size Medium Shown"
+    ],
+    "alt": "Vegan Leather short",
+    "images": [
+      "/images/products/vegan-leather-short-1.jpg",
+      "/images/products/vegan-leather-short-2.jpg",
+      "/images/products/vegan-leather-short-3.jpeg",
+      "/images/products/vegan-leather-short-4.jpeg"
+    ],
+    "rating": 4,
+    "reviewCount": 1
+  },
+  {
+    "slug": "vegan-leather-short-set",
+    "name": "Vegan Leather Short Set",
+    "price": 34.99,
+    "salePrice": null,
+    "onSale": false,
+    "categories": [],
+    "isNew": false,
+    "variant": "Color",
+    "description": [
+      "Vegan Leather",
+      "Crop top",
+      "Shorts have pockets with adjustable waist band",
+      "Runs true to size",
+      "Lots of stretch",
+      "Materials: 100% Polyurethane",
+      "Pieces can be paired with your other closet faves",
+      "*Size Medium Shown"
+    ],
+    "alt": "Vegan leather short set",
+    "images": [
+      "/images/products/vegan-leather-short-set-1.jpeg",
+      "/images/products/vegan-leather-short-set-2.jpeg",
+      "/images/products/vegan-leather-short-set-3.jpg"
+    ]
+  },
+  {
+    "slug": "what-is-that-velvet",
+    "name": "What is that Velvet?",
+    "price": 41.99,
+    "salePrice": 24,
+    "onSale": true,
+    "categories": [
+      "sets"
+    ],
+    "isNew": false,
+    "variant": "Color",
+    "description": [
+      "Ruched Velvet Set",
+      "Zippered Crop Jacket",
+      "Full length ruched pants with slit at bottom",
+      "Lots of stretch",
+      "Tall Girl Friendly",
+      "*Size Small shown in picture"
+    ],
+    "alt": "Royal Blue Velvet Pants Set",
+    "images": [
+      "/images/products/what-is-that-velvet-1.jpg",
+      "/images/products/what-is-that-velvet-2.jpg"
+    ]
+  },
+  {
+    "slug": "white-lines",
+    "name": "White lines",
+    "price": 22,
+    "salePrice": 10,
+    "onSale": true,
+    "categories": [
+      "tops"
+    ],
+    "isNew": false,
+    "variant": "Size",
+    "description": [
+      "Black And white striped Top",
+      "See through at every other stripe",
+      "Materials: 45% Viscose/45% Rayon/ 10% Nylon"
+    ],
+    "alt": "Woman in a dark top with white stripes, hands on hips",
+    "images": [
+      "/images/products/white-lines-1.jpg",
+      "/images/products/white-lines-2.png"
+    ]
+  },
+  {
+    "slug": "wide-brim",
+    "name": "Wide Brim",
+    "price": 23.99,
+    "salePrice": null,
+    "onSale": false,
+    "categories": [
+      "outerwear"
+    ],
+    "isNew": false,
+    "variant": "Color",
+    "description": [
+      "100% Polyester",
+      "One size fits most",
+      "Adjustable inner drawstring",
+      "Brim size is 3.75"
+    ],
+    "alt": "Fedora Hat",
+    "images": [
+      "/images/products/wide-brim-1.png",
+      "/images/products/wide-brim-2.png"
+    ]
+  }
+]
