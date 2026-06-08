@@ -15,6 +15,13 @@
 import { readFileSync, readdirSync, writeFileSync, mkdirSync, copyFileSync, existsSync, rmSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
+import sharp from "sharp";
+
+// Source renders are wildly oversized (up to 2250×3000 / 5 MB). The UI never
+// shows them larger than ~700px CSS, so we downscale to a retina-safe cap and
+// emit compact WebP — this is what keeps the image optimizer fast at runtime.
+const MAX_EDGE = 1600;
+const WEBP_QUALITY = 82;
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const PAGES = join(ROOT, "raw messy data 2");
@@ -249,8 +256,12 @@ for (const p of products.values()) {
   for (const { hash } of p.imageHashes) {
     const local = localByHash.get(hash);
     if (!local) { missing++; continue; }
-    const outName = `${p.slug}-${++i}.${local.ext}`;
-    copyFileSync(join(IMG_SRC, local.file), join(IMG_OUT, outName));
+    const outName = `${p.slug}-${++i}.webp`;
+    await sharp(join(IMG_SRC, local.file), { failOn: "none" })
+      .rotate() // honor EXIF orientation
+      .resize({ width: MAX_EDGE, height: MAX_EDGE, fit: "inside", withoutEnlargement: true })
+      .webp({ quality: WEBP_QUALITY })
+      .toFile(join(IMG_OUT, outName));
     images.push(`/images/products/${outName}`);
     copied++;
   }
